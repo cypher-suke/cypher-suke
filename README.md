@@ -12,12 +12,7 @@ My journey in computer information systems has sparked a passion for cybersecuri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|  Junior penetration tester - Cert Labs          | <a href="https://github.com/cypher-suke/Jr-Penetration-Tester-Lab">Jr Pen Tester Lab</a>|
 
 ## Tools
 
